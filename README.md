@@ -24,7 +24,11 @@ Welcome to my GitHub profile!
 ![Javid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=javidaf&show_icons=true&theme=tokyonight)
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=javidaf)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javidaf&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=javidaf&theme=github-dark)](https://git.io/streak-stats)
 ## 🤝 Let’s Connect
 - Email: [javidaf@outlook.com](mailto:javidaf@outlook.com)
 

@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hey there! I'm Javid 👋
+
+Welcome to my GitHub profile!
+
+## 🚀 What I Do
+- C++ developer at ConOptica
+- Research Assistent at Yaksi Lab (KISN)
+- Persuing a masters degree in Computational science at UIO
+## 📈 GitHub Stats
+![Javid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=javidaf&show_icons=true&theme=tokyonight)
+
+
+
+## 🤝 Let’s Connect
+- Email: [javidaf@outlook.com](mailto:javidaf@outlook.com)
+
+Thanks for stopping by!

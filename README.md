@@ -19,16 +19,33 @@ Welcome to my GitHub profile!
 ## 🚀 What I Do
 - C++ developer at ConOptica
 - Research Assistent at Yaksi Lab (KISN)
-- Persuing a masters degree in Computational science at UIO
+- Pursuing a master's degree in Computational Science at UiO, specializing in Machine Learning and Quantum Machine Learning. 
+
 ## 📈 GitHub Stats
-![Javid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=javidaf&show_icons=true&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javidaf&theme=tokyonight&hide=jupyter%20notebook" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api?username=javidaf&show_icons=true&theme=tokyonight" height="200px">
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=javidaf&theme=github-dark" >
+  </a>
+</p>
+
+<!--
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javidaf&theme=github-dark" height="200px" >
+</p>
+-->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=javidaf">
+</p>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=javidaf)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javidaf&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=javidaf&theme=github-dark)](https://git.io/streak-stats)
 ## 🤝 Let’s Connect
 - Email: [javidaf@outlook.com](mailto:javidaf@outlook.com)
 
